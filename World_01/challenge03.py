@@ -4,4 +4,4 @@ firstNumber = int(input('Enter a value: '))
 secondNumber = int(input('Enter another value: '))
 firstSum = firstNumber + secondNumber
 
-print('The sum of {} and {} is {}'.format(firstNumber,secondNumber,firstSum))
+print(f'The sum of {firstNumber} and {secondNumber} is {firstSum}')
